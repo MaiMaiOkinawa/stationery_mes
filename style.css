@@ -161,7 +161,7 @@ h1 {
 
 .img__description {
   position: absolute;
-  top: 77%;
+  top: 70%;
   bottom: 0;
   left: 70%;
   right: 0%;
@@ -212,7 +212,7 @@ h1 {
     box-shadow: 10px 10px;
   }
   .img__description {
-    top: 73%;
+    top: 65%;
     bottom: 0%;
     left: 50%;
     right: 5%;
